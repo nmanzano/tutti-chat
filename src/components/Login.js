@@ -107,20 +107,6 @@ class Login extends Component {
           { this.renderButton() }
         </View>
 
-        <View style={styles.needAccountPos}>
-          <View style={styles.DontHaveAcctPos}>
-            <Text style={styles.DontHaveAcctTxt}>
-              Don't have an account?
-            </Text>
-          </View>
-          <View style={styles.signUpPos}>
-            <Text style={styles.signUpTxt}>
-              Sign up
-            </Text>
-          </View>
-        </View>
-
-
       </View>
 
     );
@@ -160,29 +146,7 @@ const styles = {
     alignItems: 'center',
     top: 225,
   },
-  needAccountPos: {
-    flexDirection: 'row',
-    justifyContent: 'center',
-    top: 300
-  },
-  DontHaveAcctTxt: {
-    fontFamily: 'Helvetica neue',
-    fontSize: 13,
-    fontWeight: '300',
-    color: '#373e52',
-    lineHeight: 18,
-  },
-  signUpPos: {
-    left: 10
-  },
-  signUpTxt: {
-    fontFamily: 'Helvetica neue',
-    fontSize: 13,
-    fontStyle: 'italic',
-    fontWeight: '600',
-    lineHeight: 18,
-    color: '#f60068'
-  },
+
   authError: {
     fontFamily: 'Helvetica neue',
     fontSize: 20,

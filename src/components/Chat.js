@@ -13,7 +13,7 @@ class Chat extends Component {
 
     // displaying the data from firebase
     firebase.database().ref('Room').child('Chat').on('value', (snapshot) => {
-      console.log({ messages: snapshot.val() });
+    
       // this.setState.message.push(snapshot.val())
       let msg = snapshot.val();
       let messages = [];
@@ -22,9 +22,9 @@ class Chat extends Component {
           messages.push(msg[outerKey][innerKey]);
         }
       }
-      console.log(messages);
+
       this.setState({ "messages": messages});
-      // console.log(snapsh);
+
     });
   }
 
