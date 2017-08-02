@@ -18,7 +18,7 @@ const FacebookButton = ({ onPress }) => {
 const styles = {
   textStyle: {
     textAlign: 'center',
-    fontFamily: 'Open Sans',
+    fontFamily: 'Helvetica neue',
     color: '#fcfafa',
     fontWeight: '400',
     fontSize: 13,

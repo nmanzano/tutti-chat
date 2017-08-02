@@ -16,7 +16,7 @@ const CreateAccountBtn = ({ onPress }) => {
 const styles = {
   textStyle: {
     textAlign: 'center',
-    fontFamily: 'Open Sans',
+    fontFamily: 'Helvetica neue',
     fontWeight: '300',
     color: '#f60068',
     fontSize: 18,

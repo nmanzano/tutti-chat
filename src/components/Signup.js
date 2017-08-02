@@ -54,7 +54,7 @@ const styles = {
     top: 70,
   },
   titleFont: {
-    fontFamily: 'Open Sans',
+    fontFamily: 'Helvetica neue',
     fontWeight: 'bold',
     color: '#fff',
     fontSize: 43,
@@ -67,7 +67,7 @@ const styles = {
     top: 90,
   },
   gettingStartedText: {
-    fontFamily: 'Open Sans',
+    fontFamily: 'Helvetica neue',
     fontSize: 23,
     color: '#fff',
     fontWeight: '300',
@@ -85,7 +85,7 @@ const styles = {
   },
   haveAccountTxt: {
     color: '#fcf9f9',
-    fontFamily: 'Open Sans',
+    fontFamily: 'Helvetica neue',
     fontSize: 18,
     lineHeight: 24,
     height: 24,

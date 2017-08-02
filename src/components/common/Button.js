@@ -16,7 +16,7 @@ const Button = ({ onPress, title }) => {
 const styles = {
   textStyle: {
     textAlign: 'center',
-    fontFamily: 'Open Sans',
+    fontFamily: 'Helvetica neue',
     fontWeight: 'bold',
     color: '#fff',
     fontSize: 29,

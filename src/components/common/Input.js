@@ -22,7 +22,7 @@ const Input = ({ label, value, onChangeText, placeholder, secureTextEntry, keybo
 
 const styles = {
   inputStyle: {
-    fontFamily: 'Open Sans',
+    fontFamily: 'Helvetica neue',
     width: 180,
     fontSize: 23,
     fontWeight: '300',

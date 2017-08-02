@@ -135,7 +135,7 @@ const styles = {
     top: 50,
   },
   titleFont: {
-    fontFamily: 'Open Sans',
+    fontFamily: 'Helvetica neue',
     fontWeight: 'bold',
     height: 56,
     fontSize: 41,
@@ -148,7 +148,7 @@ const styles = {
     top: 87,
   },
   gettingStartedText: {
-    fontFamily: 'Open Sans',
+    fontFamily: 'Helvetica neue',
     height: 32,
     fontSize: 23,
     lineHeight: 32,
@@ -166,7 +166,7 @@ const styles = {
     top: 300
   },
   DontHaveAcctTxt: {
-    fontFamily: 'Open Sans',
+    fontFamily: 'Helvetica neue',
     fontSize: 13,
     fontWeight: '300',
     color: '#373e52',
@@ -176,7 +176,7 @@ const styles = {
     left: 10
   },
   signUpTxt: {
-    fontFamily: 'Open Sans',
+    fontFamily: 'Helvetica neue',
     fontSize: 13,
     fontStyle: 'italic',
     fontWeight: '600',
@@ -184,7 +184,7 @@ const styles = {
     color: '#f60068'
   },
   authError: {
-    fontFamily: 'Open Sans',
+    fontFamily: 'Helvetica neue',
     fontSize: 20,
     color: 'red',
     alignSelf: 'center'
