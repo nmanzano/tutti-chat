@@ -81,7 +81,7 @@ class Login extends Component {
           <Input
             value={this.state.email}
             label='email'
-            placeholder='user@gmail.com'
+            placeholder='user@email.com'
             keyboardType='email-address'
             // prop that sets property text with function
             onChangeText={email => this.setState({ email })}
