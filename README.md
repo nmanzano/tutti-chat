@@ -4,6 +4,10 @@ Tutti is a real time chat client. It was developed in react native; It also inco
 
 ## Getting Started
 
+![gif](/assets/tutti.gif?raw=true)
+
+## Getting Started
+
 To get Tutti on your computer, download this repository and run NPM install.
 
 ### Prerequisites
