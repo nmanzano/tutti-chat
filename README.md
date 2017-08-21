@@ -2,7 +2,7 @@
 
 Tutti is a real time chat client. It was developed in react native; It also incorporates firebase to authenticate users and the functionality for real time messaging.
 
-## Getting Started
+## Example
 
 ![gif](/assets/tutti.gif?raw=true)
 
